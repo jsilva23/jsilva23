@@ -47,7 +47,7 @@
 <a target="_blank" href="mailto:josesilva23p@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/JosdaSi32521735"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/jsilva23p/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://hashnode.com/@jsilva"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>
 &emsp;
